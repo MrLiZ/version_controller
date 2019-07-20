@@ -1,0 +1,9 @@
+mysqlclient
+django==1.8.2
+django-cors-headers
+djangorestframework==3.6.4
+biplist
+oss2
+bootstrap-admin==0.3.7.1
+django-material
+raven
