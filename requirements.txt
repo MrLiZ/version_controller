@@ -1,7 +1,7 @@
 mysqlclient
 django==1.11.28
 django-cors-headers
-djangorestframework==3.6.4
+djangorestframework==3.9.1
 biplist
 oss2
 bootstrap-admin==0.3.7.1
