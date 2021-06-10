@@ -1,5 +1,5 @@
 mysqlclient
-django==1.11.29
+django==2.2.24
 django-cors-headers
 djangorestframework==3.9.1
 biplist
